@@ -1,3 +1,3 @@
 # shaiva
-git add index.html
-git commit -m "Added a new line to the HTML page"
+git config --global user.name "Your sanju"
+git config --global user.email "sanjayassanju3@gmail.com"
